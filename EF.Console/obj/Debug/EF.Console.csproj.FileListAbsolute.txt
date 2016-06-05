@@ -1,0 +1,14 @@
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.Console.exe.config
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.Console.exe
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.Console.pdb
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.DataAccess.dll
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.Domain.dll
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EntityFramework.dll
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EntityFramework.SqlServer.dll
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.DataAccess.pdb
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EF.Domain.pdb
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EntityFramework.xml
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\bin\Debug\EntityFramework.SqlServer.xml
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\obj\Debug\EF.Console.csprojResolveAssemblyReference.cache
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\obj\Debug\EF.Console.exe
+D:\Task\ProjectRepo\EntityFrameworkTest\EF.Console\obj\Debug\EF.Console.pdb
